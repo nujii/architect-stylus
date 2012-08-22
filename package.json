@@ -1,0 +1,27 @@
+{
+  "name": "architect-stylus",
+  "description": "Stylus plugin for Architect",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": {
+    "name": "Nujii Labs",
+    "email": "developer@nujii.com"
+  },
+  "contributors": [ 
+    { "name": "Cameron Bytheway", "email": "cameron@nujii.com" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nujii/architect-stylus.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "stylus": "~0.29.0",
+    "nib": "~0.8.1",
+    "architect-express": "~0.0.1",
+    "architect-logger": "~0.0.1"
+  },
+  "plugin": {
+    "consumes": ["logger", "express"]
+  }
+}
