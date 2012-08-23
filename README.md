@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nujii/architect-stylus.png)](http://travis-ci.org/nujii/architect-stylus)
 # architect-stylus
 
 [stylus](https://github.com/LearnBoost/stylus) plugin for 
